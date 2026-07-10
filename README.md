@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Voraprat! 👋
 
-<!--
-**pbvoraprat1/pbvoraprat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A self-taught Backend Developer focused on building scalable web applications with Python, Django, and PostgreSQL.
 
-Here are some ideas to get you started:
+I enjoy designing APIs, working with databases, deploying applications with Docker, and understanding how systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Technical Stack
+
+### Core Technologies
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, Django REST Framework, FastAPI, Flask
+- **Databases:** PostgreSQL
+- **DevOps & Workflow:** Docker, Git, Linux
+
+### Currently Learning
+
+- Nginx & Reverse Proxy
+- CI/CD with GitHub Actions
+- Cloud Deployment (DigitalOcean)
+- Local LLM Deployment & Integration
+
+---
+
+## 🚀 Featured Projects
+
+### 📦 [WarehouseOS](https://github.com/pbvoraprat1/WarehouseOS)
+A full-stack inventory and warehouse management system built with Django REST Framework and React.
+
+Key features:
+
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Warehouse & Product Management
+- Stock Movement Tracking
+- Activity Logs
+- Dockerized Deployment
+
+---
+
+## 📈 GitHub Stats
+
+![Voraprat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbvoraprat1&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbvoraprat1&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 💬 Contact & Connect
+- **Email:** [Your Email Address]
+- **LinkedIn:** [Your LinkedIn Profile Link]
