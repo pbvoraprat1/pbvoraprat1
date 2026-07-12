@@ -63,6 +63,19 @@ Key features:
 
 ---
 
+---
+
 ## 💬 Contact & Connect
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile Link]
+
+<p align="left">
+  <a href="mailto:pbvoraprat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+- ✉️ **Email:** [pbvoraprat@gmail.com](mailto:pbvoraprat@gmail.com)
+- 💼 **LinkedIn:** [Voraprat Pringplang](https://linkedin.com/in/your-linkedin-username)
+jj
