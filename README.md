@@ -10,7 +10,7 @@ I enjoy designing APIs, working with databases, deploying applications with Dock
 
 ### Core Technologies
 - **Languages:** Python, JavaScript
-- **Frameworks:** Django, Django REST Framework, FastAPI, Flask
+- **Frameworks:** Django, Django REST Framework
 - **Databases:** PostgreSQL
 - **DevOps & Workflow:** Docker, Git, Linux
 
@@ -23,7 +23,7 @@ I enjoy designing APIs, working with databases, deploying applications with Dock
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 📦 [WarehouseOS](https://github.com/pbvoraprat1/WarehouseOS)
 A full-stack inventory and warehouse management system built with Django REST Framework and React.
@@ -46,47 +46,6 @@ Key features:
 </div>
 
 ---
-
-## ⚙️ Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-
-  <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Certbot" />
-
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
-
----
-
-
-## 💬 Contact & Connect
-
-<p align="left">
-  <a href="mailto:pbvoraprat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/voraprat-pringplang-4209bb421/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 - ✉️ **Email:** [pbvoraprat@gmail.com](mailto:pbvoraprat@gmail.com)
 - 💼 **LinkedIn:** [Voraprat Pringplang](https://www.linkedin.com/in/voraprat-pringplang-4209bb421/)
