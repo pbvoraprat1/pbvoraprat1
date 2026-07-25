@@ -1,8 +1,8 @@
 # Hi there, I'm Voraprat! 👋
 
-A self-taught Backend Developer focused on building scalable web applications with Python, Django, and PostgreSQL.
+A self-taught Backend Developer passionate about building scalable, production-ready web applications with Python, Django, and PostgreSQL.
 
-I enjoy designing APIs, working with databases, deploying applications with Docker, and understanding how systems work behind the scenes.
+Driven by a deep curiosity for how complex software works behind the scenes, I transitioned into backend engineering through hands-on building. I focus on designing clean REST APIs, optimizing database architectures, containerizing applications with Docker, and ensuring data integrity across system workflows.
 
 ---
 
@@ -20,6 +20,7 @@ I enjoy designing APIs, working with databases, deploying applications with Dock
 - CI/CD with GitHub Actions
 - Cloud Deployment (DigitalOcean)
 - Local LLM Deployment & Integration
+- Data Structure & Algorithm
 
 ---
 
