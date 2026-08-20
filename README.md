@@ -10,9 +10,10 @@ Driven by a deep curiosity for how complex software works behind the scenes, I t
 
 ### Core Technologies
 - **Languages:** Python, JavaScript
-- **Frameworks:** Django, Django REST Framework
-- **Databases:** PostgreSQL
+- **Frameworks:** Django, Django REST Framework, Node, Express, Prisma
+- **Databases:** PostgreSQL, Firebase, Neon
 - **DevOps & Workflow:** Docker, Git, Linux
+- **Cloud:** Digital Ocean, Render, Vercel 
 
 ### Currently Learning
 
@@ -20,8 +21,17 @@ Driven by a deep curiosity for how complex software works behind the scenes, I t
 - CI/CD with GitHub Actions
 - Cloud Deployment (DigitalOcean)
 - Local LLM Deployment & Integration
-- Data Structure & Algorithm
-- Data engineer
+- Data Structures & Algorithms
+- **Data Engineering** — IrisxBotStrem++ Advanced Data Engineer & Applied Analytics for IT & Developer Teams (22nd generation)
+
+---
+
+## 🎓 Certifications
+
+| Certificate | Issued By | Year |
+|---|---|---|
+| CS50's Introduction to Programming with Python | Harvard University (edX) | Aug 2026 |
+
 ---
 
 ## 🚀 Featured Project
@@ -37,6 +47,23 @@ Key features:
 - Stock Movement Tracking
 - Activity Logs
 - Dockerized Deployment
+
+### 📝 [Blog-System](https://github.com/pbvoraprat1/Blog-System)
+A full-stack Blog Management System with a focus on secure authentication and role-based workflows.
+
+> 🔧 **Backend built from scratch** · Frontend UI generated with AI assistance
+
+Key features:
+
+- JWT Authentication with account activation flow
+- Role-Based Access Control (RBAC) — Super Admin & General User
+- Full Blog CRUD with ownership enforcement
+- Interactive Comments & Real-time Notifications
+- Search functionality with optimized DB queries
+- Deployed on Render (Backend) · Vercel (Frontend) · Neon (PostgreSQL)
+
+**Backend Stack:** Node.js, Express.js, PostgreSQL, Prisma  
+**Frontend Stack:** React.js, Vite, TailwindCSS
 
 ---
 
