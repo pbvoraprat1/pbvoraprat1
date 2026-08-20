@@ -21,7 +21,7 @@ Driven by a deep curiosity for how complex software works behind the scenes, I t
 - Cloud Deployment (DigitalOcean)
 - Local LLM Deployment & Integration
 - Data Structure & Algorithm
-
+- Data engineer
 ---
 
 ## 🚀 Featured Project
