@@ -10,7 +10,7 @@ Driven by a deep curiosity for how complex software works behind the scenes, I t
 
 ### Core Technologies
 - **Languages:** Python, JavaScript
-- **Frameworks:** Django, Django REST Framework, Node, Express, Prisma
+- **Frameworks:** Django, Django REST Framework, Node, Express
 - **Databases:** PostgreSQL, Firebase, Neon
 - **DevOps & Workflow:** Docker, Git, Linux
 - **Cloud:** Digital Ocean, Render, Vercel 
